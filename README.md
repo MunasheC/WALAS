@@ -35,5 +35,4 @@ The WALAS project is licensed under the [MIT License](LICENSE). See the LICENSE 
 ## Contact
 
 For inquiries or support related to the WALAS project, please contact:
-
-[Project Coordinator]: [bchihota77@gmail.com]
+bchihota77@gmail.com
